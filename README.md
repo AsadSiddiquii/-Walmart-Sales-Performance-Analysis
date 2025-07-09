@@ -1,4 +1,4 @@
-##Retail Sales & Customer Behavior Analysis
+## Retail Sales & Customer Behavior Analysis
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1200px-Walmart_logo.svg.png)
